@@ -1,0 +1,9 @@
+Content File
+added contents to the Feature
+<<<<<<< HEAD
+feature 1 
+feature 2
+feature 3
+=======
+removed contents from feature
+>>>>>>> eb7810afb642cc89eb1a2e450a2bdbb08e77ff42
